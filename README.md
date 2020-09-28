@@ -23,5 +23,4 @@
 </a>
 <br>
 <br>
-### Profile Visits ~
   <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=Barcodeeee.Barcodeeee" />
