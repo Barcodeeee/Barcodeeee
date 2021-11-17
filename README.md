@@ -1,6 +1,6 @@
 <h2 align="center">Hello user! I'm Barcode. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 <br>
-<p align="center">I'm just a dev that likes to create shit to mess with others or sometimes create something of use. Everyone starts somewhere and for me, I started with a simple Discord Bot. Currently reversing some shitty programs. Stay tuned</p>
+<p align="center">Self taught developer. Full stack (to an extent). Owner of Hellsploit. Currently reversing some shitty programs. Stay tuned</p>
 <br>
 <br>
 
